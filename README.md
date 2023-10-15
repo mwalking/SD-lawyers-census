@@ -9,8 +9,7 @@ encompass two non-overlapping 5-year ACS files, the 2013-2017 &
 2018-2022 files.
 
 More info about the American Community Survey (ACS) can be found on the
-Census’s website \[here\]
-(<https://www.census.gov/programs-surveys/acs>).
+Census’s website [here](https://www.census.gov/programs-surveys/acs).
 
 ## Notes
 
@@ -19,5 +18,5 @@ Census’s website \[here\]
     users. It it is advised that users turn to `ggplot2` instead.
 -   To do some of the analysis found in this repository a user will need
     to obtain an API key from the U.S. Census Bureau. Info on to obtain
-    an API key can be found on their website \[here\]
-    (<https://www.census.gov/data/developers/data-sets.html>).
+    an API key can be found on their website
+    [here](https://www.census.gov/data/developers/data-sets.html).
