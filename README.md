@@ -14,9 +14,9 @@ Census’s website [here](https://www.census.gov/programs-surveys/acs).
 ## Notes
 
 -   `pewplots` is used extensively thoughout this analysis to create
-    plots and is a private package and may not be accessable to most
+    plots and is a private package and may not be accessible to most
     users. It it is advised that users turn to `ggplot2` instead.
 -   To do some of the analysis found in this repository a user will need
-    to obtain an API key from the U.S. Census Bureau. Info on to obtain
-    an API key can be found on their website
+    to obtain an API key from the U.S. Census Bureau. Info how on to
+    obtain an API key can be found on their website
     [here](https://www.census.gov/data/developers/data-sets.html).
