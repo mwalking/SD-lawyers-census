@@ -19,7 +19,7 @@ knitr::opts_chunk$set(
 
 # Overview
 
-This analysis explores the demographics of lawyers in San Diego County. The data comes from the U.S. Census Bureau's American Community Survey Public Use Microsample (`PUMS`) dataset. The datasets in this analysis encompass two non-overlapping 5-year ACS files, the 2013-2017 & 2018-2022 files.
+This analysis explores the demographics of lawyers in San Diego County. The data comes from the U.S. Census Bureau's American Community Survey Public Use Microsample (`PUMS`) dataset. The datasets in this analysis encompass two non-overlapping 5-year ACS files, the 2012-2016 & 2017-2021 files.
 
 More info about the American Community Survey (ACS) can be found on the Census's website [here](https://www.census.gov/programs-surveys/acs).
 
